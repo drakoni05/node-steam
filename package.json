@@ -12,8 +12,7 @@
     "adm-zip": "^0.4",
     "buffer-crc32": "^0.2",
     "bytebuffer": "^5.0",
-    "steam-crypto": "^0.0",
-    "steam-resources": "seishun/node-steam-resources"
+    "steam-crypto": "^0.0"
   },
   "engines": {
     "node": ">=4.1.1"
